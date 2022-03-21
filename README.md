@@ -4,7 +4,7 @@
 
  ## Discription 
  -------------------------------------------------------
-- this is a web media sharing app   
+- this is a discount sharing app   
 - using this app  anonymous user can see the post with out making all deleting a post
   registered users has there own profile, so they can login and see others post plus they can see there profile info and they 
   can also delete thier post 
